@@ -47,6 +47,7 @@ import org.openmrs.test.BaseModuleContextSensitiveTest;
 /**
  * Tests {@link ${RegisterService}}.
  */
+@Ignore
 public class  RegisterServiceTest extends BaseModuleContextSensitiveTest {
 	
 	/*
